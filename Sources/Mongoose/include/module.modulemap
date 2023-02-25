@@ -1,0 +1,4 @@
+module Mongoose [system][extern_c] {
+    header "../mongoose.h"
+    export *
+}
